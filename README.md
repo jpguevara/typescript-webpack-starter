@@ -14,7 +14,9 @@ It includes:
 1. Clone the repo
 
 ```bash
-git clone --bare url
+git clone git@github.com:jpguevara/typescript-webpack-starter.git YOUR_PROYECT_NAME
+
+
 ```
 
 2. run `npm install`
